@@ -1,0 +1,17 @@
+body {
+    background: #d3d1d1;
+    margin: 0;
+}
+div {
+    background: white;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding: 50px;
+    box-shadow: 0 0 7px #c8c8c800;
+}
+p{
+	font-size: 30px;
+	color: red;
+}

@@ -2,7 +2,7 @@ body {
     background: #d3d1d1;
     margin: 0;
 }
-div {
+.box {
     background: white;
     width: 1000px;
     margin-left: auto;
@@ -10,8 +10,21 @@ div {
     margin-top: 100px;
     padding: 50px;
     box-shadow: 0 0 7px #c8c8c800;
+    text-align: center;
 }
-p{
-	font-size: 30px;
-	color: red;
+h2{
+    font-size: 75px;
+    color: rgb(8, 61, 86);
+    margin: 0;
+}
+h1{font-size: 64px;margin: 0;color: #0b4370;text-transform: lowercase;
+}
+span{
+    color: #126ab0;
+}
+img{
+    width: 200px;
+}
+.aboutme{
+    text-align: left;
 }
